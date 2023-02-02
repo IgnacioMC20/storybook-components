@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "start-storybook -p 6006",
-    "build": "build-storybook",
+    "build": "build-storybook -o docs",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
